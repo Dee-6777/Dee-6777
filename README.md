@@ -12,3 +12,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a good dancer!
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dee-6777&theme=light" alt="Dee-6777" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dee-6777&show_icons=true&theme=light&locale=en&layout=compact" alt="Dee-6777" /></p>
